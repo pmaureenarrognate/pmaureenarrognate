@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pmaureenarrognate
 - 👀 I’m interested in Networking and Python 
-- 🌱 I’m currently learning ... Rust/Python... I am getting my CCNA soon :D
+- 🌱 I’m currently learning ... Python
 - 📫 How to reach me ... LinkedIn /pmaureenarrogante and https://pmaureenarrogante.com
 
 <!---
