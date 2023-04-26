@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pmaureenarrognate
+- 👋 Hi, I’m Maureen Arrogante
 - 👀 I’m interested in Networking and Python 
 - 🌱 I’m currently learning ... Network Automation
 - 📫 How to reach me ... LinkedIn /pmaureenarrogante and https://pmaureenarrogante.com
